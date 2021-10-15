@@ -1,0 +1,19 @@
+{
+  "name": "once-wheel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "unpkg": "index.browser.js",
+  "author": "YusukeNakaya",
+  "description": "Detect a wheel event only once.",
+  "keywords": [
+    "addEventListener",
+    "wheel",
+    "once",
+    "one"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YusukeNakaya/once-wheel.git"
+  },
+  "license": "MIT"
+}
